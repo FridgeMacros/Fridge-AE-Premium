@@ -1,1 +1,21 @@
-
+Images/Raid/Spirit City/Act 1.png
+Images/Expeditions/School Ground.png
+Images/Expeditions/Flower Forest.png
+Images/Expeditions/Rose Kingdom.png
+Images/Expeditions/East Town.png
+Images/Villian Invasion/Act_1_-_Death.png
+Images/Villian Invasion/Act_2_-_Tartaros.png
+Images/Villian Invasion/Act_3_-_Sword.png
+Images/Villian Invasion/Crow_Dawn.png
+Images/Tower/School Grounds.png
+Images/Tower/Flower Forest.png
+Images/Tower/Rose Kingdom.png
+Images/Tower/Fairy King Forest.png
+Images/Tower/King's Tomb.png
+Images/Tower/East Town.png
+Images/AutoChallenge/School Grounds.png
+Images/AutoChallenge/Flower Forest.png
+Images/AutoChallenge/Rose Kingdom.png
+Images/AutoChallenge/Fairy King Forest.png
+Images/AutoChallenge/King's Tomb.png
+Images/AutoChallenge/East Town.png
