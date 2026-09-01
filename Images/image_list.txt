@@ -10,3 +10,5 @@ Villian Invasion/Act 1_Death.png
 Villian Invasion/Act 2_Tartaros.png
 Villian Invasion/Act 3_Sword.png
 Villian Invasion/Crow_Dawn.png
+Portals/Summer Portal.png
+Summer Event Infinite/Summer Event Infinite.png
