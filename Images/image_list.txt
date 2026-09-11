@@ -4,11 +4,9 @@ Story/Rose Kingdom.png
 Story/Fairy King Forest.png
 Story/King's Tomb.png
 Story/East Town.png
+Story/Crimson_Shore.png
 Raid/Spirit City/Act 1.png
 Expeditions/Expeditions.png
-Villian Invasion/Act 1_Death.png
-Villian Invasion/Act 2_Tartaros.png
-Villian Invasion/Act 3_Sword.png
-Villian Invasion/Crow_Dawn.png
 Portals/Summer Portal.png
 Summer Event Infinite/Summer Event Infinite.png
+Raid/Snowy_Castle.png
